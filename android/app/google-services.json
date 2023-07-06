@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "593345781764",
+    "project_id": "mikesburgers",
+    "storage_bucket": "mikesburgers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593345781764:android:f3652b792f7c1298675551",
+        "android_client_info": {
+          "package_name": "com.example.burger_review_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593345781764-en25an9vdb5a9vrmj4n4dh1vua8161u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcXsARQohQjAvm4Rg5hdTWByoJOfEI_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593345781764-en25an9vdb5a9vrmj4n4dh1vua8161u0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593345781764-fcvb56gd0m0lbccqgqiberna1060io8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kylanoconnor.burgerReview3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

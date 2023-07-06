@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>593345781764-fcvb56gd0m0lbccqgqiberna1060io8b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.593345781764-fcvb56gd0m0lbccqgqiberna1060io8b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACRsyQN0YWWT_FzLX5vZV15ziv7vIfUTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593345781764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kylanoconnor.burgerReview3</string>
+	<key>PROJECT_ID</key>
+	<string>mikesburgers</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mikesburgers.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593345781764:ios:5046b991bd0fc8e3675551</string>
+</dict>
+</plist>
