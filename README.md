@@ -14,11 +14,11 @@ Inspired by platforms like Yelp, I've created Kylan's Burger to focus specifical
 
 - **Burger Discovery:** I've included a map feature to help you find burger places in your vicinity. With detailed information on each restaurant such as operation hours, popular items, and user reviews, choosing your next burger adventure has never been easier. Used the Yelp API to get all nearby restaurants.
 
-- **Social Media Feed:** Connect with a community of fellow burger enthusiasts. You can share your own experiences, post photos of your favorite burgers, and engage with others' posts.
+- **Social Media Feed:** Connect with a community of fellow burger enthusiasts. You can share your own experiences, post photos of your favorite burgers, and engage with others' posts. Used Firebase to store all account information and post data.
 
-- **Merchandise Store:** Show your burger love with a range of merchandise I've designed. You'll find everything from t-shirts to mugs sporting fun and creative designs.
+- **Merchandise Store:** Show your burger love with a range of merchandise.
 
-- **User Profile:** Customize your own user profile to personalize your experience. Track your burger journey with a personal burger checklist and wishlist.
+- **User Profile:** Customize your own user profile to personalize your experience.
 
 ## App Images
 
